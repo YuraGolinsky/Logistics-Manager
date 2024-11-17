@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Андрій",
+        "pickup": "Харьков",
+        "destination": "Одеса",
+        "weight": 25.0,
+        "distance": 675.0,
+        "fuel_consumption": 15.0,
+        "weather_correction": 0,
+        "total_fuel": 102.5
+    },
+    {
+        "name": "Юра",
+        "pickup": "Київ",
+        "destination": "Львов",
+        "weight": 25.0,
+        "distance": 540.0,
+        "fuel_consumption": 5.0,
+        "weather_correction": 0,
+        "total_fuel": 28.25
+    }
+]
